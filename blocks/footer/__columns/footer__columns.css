@@ -1,5 +1,4 @@
 .footer__columns {
-  list-style-type: none;
   display: flex;
   justify-content: space-between;
   margin: 60px auto 40px;
